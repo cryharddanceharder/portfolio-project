@@ -1,13 +1,15 @@
 :root {
   --branding-color: rgb(234, 205, 248);
+  --default-font-family: "Josefin Slab", serif;
+  --heading-font-family: "Vidaloka", serif;
 }
 
 body {
-  font-family: "Josefin Slab", serif;
+  font-family: var(--default-font-family);
 }
 
 h1 {
-  font-family: "Vidaloka", serif;
+  font-family: var(--heading-font-family);
   font-size: 80px;
 }
 
