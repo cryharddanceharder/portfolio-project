@@ -18,3 +18,8 @@ h2 {
   color: rgb(0, 0, 0);
   padding: 80px 40px;
 }
+
+.btn-dark {
+  padding: 12px 20px;
+  font-size: 18px;
+}
