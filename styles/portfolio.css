@@ -32,6 +32,10 @@ img {
   box-shadow: 10px 10px 10px gray;
 }
 
+.col-md-6 {
+  padding: 60px 50px;
+}
+
 .featured-projects {
   font-size: 40px;
   font-weight: bold;
