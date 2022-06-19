@@ -1,15 +1,19 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Josefin Slab", serif;
 }
 
 h1 {
-  font-family: "Staatliches", cursive;
+  font-family: "Vidaloka", serif;
   font-size: 80px;
+}
+
+h2 {
+  font-size: 35px;
 }
 
 .hero {
   text-align: center;
-  background-color: rgb(38, 5, 53);
-  color: aliceblue;
+  background-color: rgb(234, 205, 248);
+  color: rgb(0, 0, 0);
   padding: 40px;
 }
