@@ -62,4 +62,10 @@ img {
   h2 {
     font-size: 40px;
   }
+  .hero {
+    padding: 40px 20px;
+  }
+  .featured-projects {
+    padding: 15px;
+  }
 }
