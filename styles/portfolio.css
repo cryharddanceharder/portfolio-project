@@ -18,7 +18,16 @@ h2 {
   padding: 30px;
 }
 
+h3 {
+  font-family: var(--heading-font-family);
+  font-size: 50px;
+}
+
 p {
+  font-size: 20px;
+}
+
+.featured-projects {
   font-size: 40px;
   font-weight: bold;
   padding: 35px;
