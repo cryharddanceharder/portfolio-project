@@ -1,3 +1,7 @@
+:root {
+  --branding-color: rgb(234, 205, 248);
+}
+
 body {
   font-family: "Josefin Slab", serif;
 }
@@ -14,12 +18,12 @@ h2 {
 
 .hero {
   text-align: center;
-  background-color: rgb(234, 205, 248);
+  background-color: var(--branding-color);
   color: rgb(0, 0, 0);
   padding: 80px 40px;
 }
 
 .btn-dark {
   padding: 12px 20px;
-  font-size: 18px;
+  font-size: 20px;
 }
