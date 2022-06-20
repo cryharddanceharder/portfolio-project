@@ -30,7 +30,6 @@ p {
 
 img {
   border-radius: 10px;
-  border: 10px solid white;
   box-shadow: 10px 10px 10px gray;
 }
 
@@ -62,7 +61,9 @@ img {
 }
 
 .profile-image {
-  width: 150px;
+  width: 160px;
+  border-radius: 35px;
+  border: 10px solid var(--branding-color);
 }
 
 @media (max-width: 600px) {
