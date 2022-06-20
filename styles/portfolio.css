@@ -84,6 +84,10 @@ img {
   padding: 40px;
 }
 
+.portfolio-project-image {
+  max-width: 450px;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 60px;
