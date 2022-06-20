@@ -61,7 +61,7 @@ img {
 }
 
 .profile-image {
-  width: 160px;
+  max-width: 200px;
   border-radius: 35px;
   border: 10px solid var(--branding-color);
 }
@@ -78,5 +78,8 @@ img {
   }
   .featured-projects {
     padding: 15px;
+  }
+  .profile-image {
+    max-width: 150px;
   }
 }
