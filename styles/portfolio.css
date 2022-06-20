@@ -76,6 +76,11 @@ img {
 }
 
 .projects-container {
+  padding: 60px 30px 30px 30px;
+  text-align: center;
+}
+
+.col {
   padding: 40px;
 }
 
