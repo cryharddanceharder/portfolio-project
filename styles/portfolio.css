@@ -55,6 +55,10 @@ img {
   font-size: 20px;
 }
 
+.about-paragraph {
+  padding: 30px 45px;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 60px;
