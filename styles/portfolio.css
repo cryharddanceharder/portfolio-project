@@ -40,7 +40,7 @@ img {
 .featured-projects {
   font-size: 40px;
   font-weight: bold;
-  padding: 35px;
+  padding: 35px 20px;
 }
 
 .hero {
@@ -55,15 +55,24 @@ img {
   font-size: 20px;
 }
 
-.about-paragraph {
+.about-content {
   padding: 30px 45px;
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
 }
 
 .profile-image {
   max-width: 200px;
   border-radius: 35px;
   border: 10px solid var(--branding-color);
+}
+
+.about-paragraph {
+  padding: 15px;
+}
+
+.profile-image-wrap {
+  padding: 10px 70px 10px 50px;
 }
 
 @media (max-width: 600px) {
@@ -78,8 +87,5 @@ img {
   }
   .featured-projects {
     padding: 15px;
-  }
-  .profile-image {
-    max-width: 150px;
   }
 }
