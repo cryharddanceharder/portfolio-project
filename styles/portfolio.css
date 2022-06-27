@@ -49,6 +49,7 @@ footer {
   text-align: center;
   font-weight: bold;
   font-size: 30px;
+  padding: 20px;
 }
 
 .col-lg-6 {
@@ -113,6 +114,14 @@ footer {
 
 .linkedin {
   padding: 22px;
+}
+
+.footer-email-link {
+  color: rgba(0, 0, 0, 0.71);
+}
+
+.footer-email-link:hover {
+  color: rgb(102, 80, 121);
 }
 
 @media (max-width: 600px) {
