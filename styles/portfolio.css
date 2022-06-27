@@ -120,11 +120,13 @@ i {
   padding: 22px;
 }
 
-.footer-email-link {
+.footer-email-link,
+.footer-social-links {
   color: rgba(0, 0, 0, 0.71);
 }
 
-.footer-email-link:hover {
+.footer-email-link:hover,
+.footer-social-links:hover {
   color: rgb(102, 80, 121);
 }
 
