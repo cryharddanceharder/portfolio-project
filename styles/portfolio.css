@@ -121,12 +121,14 @@ i {
 }
 
 .footer-email-link,
-.footer-social-links {
+.footer-social-links,
+.code-source-link {
   color: rgba(0, 0, 0, 0.71);
 }
 
 .footer-email-link:hover,
-.footer-social-links:hover {
+.footer-social-links:hover,
+.code-source-link:hover {
   color: rgb(102, 80, 121);
 }
 
