@@ -98,6 +98,8 @@ i {
 
 .profile-image-wrap {
   padding: 10px 70px 10px 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .projects-container {
